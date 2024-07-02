@@ -17,4 +17,4 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 
 
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/csaba-spengler-08876287//)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/csaba-spengler-08876287//)  
