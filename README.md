@@ -15,7 +15,7 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 * ~ Tailwind
 * 🔥 Firebase
 
-##Projects
+## Projects
 [Hello World](https://hello-world-gtqd.onrender.com)
 
 
