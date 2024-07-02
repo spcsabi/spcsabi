@@ -14,7 +14,7 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 * ⚛️ React
 * ~ Tailwind
 * 🔥 Firebase
-* 🟦 Typescript
+* 🟦 TypeScript
 
 ## Projects
 [Hello World](https://hello-world-gtqd.onrender.com)
