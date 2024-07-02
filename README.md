@@ -10,7 +10,7 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 
 
 ## Skills
-* ⚛️ Reqack
+* ⚛️ React
 * 💻 HTML | CSS | JS
 
 
