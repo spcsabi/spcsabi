@@ -10,8 +10,10 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 
 
 ## Skills
-* ⚛️ React
 * 💻 HTML | CSS | JS
+* ⚛️ React
+* ~ Tailwind
+* 🔥 Firebase
 
 
 
