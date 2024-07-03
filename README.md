@@ -17,7 +17,8 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 * 🟦 TypeScript
 
 ## Projects
-[Hello World](https://hello-world-anwl.onrender.com)
+[Hello World](https://hello-world-anwl.onrender.com) Counrties data on map, search and filter
+[Hello World](https://gotta-fetch-em-all.onrender.com) Pokemon game from Poke-API
 
 
 
