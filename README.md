@@ -19,7 +19,7 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 ## Projects
 [Hello World](https://hello-world-anwl.onrender.com) Counrties data on map, search and filter
 
-[Hello World](https://gotta-fetch-em-all.onrender.com) Pokemon game from Poke-API
+[Gotta fetch 'em all ](https://gotta-fetch-em-all.onrender.com) Pokemon game from Poke-API
 
 
 
