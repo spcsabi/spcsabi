@@ -18,10 +18,20 @@ I see parallels between architecture and coding, both requiring spatial vision, 
 
 ## Projects
 [Hello World](https://hello-world-anwl.onrender.com) Counrties data on map, search and filter
+* vanilla JavaScript
+* express
 
 [Kektura](https://kekturaapp.web.app/) Hungarian hiking trail app
+* Vite
+* React
+* TypeScript
+* Firebase
 
 [Gotta fetch 'em all ](https://gotta-fetch-em-all-eight.vercel.app/) Pokemon game from Poke-API
+* Vite
+* React
+* TypeScript
+
 
 
 
